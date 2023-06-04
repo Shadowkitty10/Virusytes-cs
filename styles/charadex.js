@@ -12,7 +12,7 @@ const charadex = (options) => {
   /* Sifting Through Options
   ======================================================================= */
   const charadexInfo = {
-    sheetID: userOptions.sheetID ? userOptions.sheetID.includes('/d/') ? userOptions.sheetID.split('/d/')[1].split('/edit')[0] : userOptions.sheetID : "1l_F95Zhyj5OPQ0zs-54pqacO6bVDiH4rlh16VhPNFUc",
+    sheetID: userOptions.sheetID ? userOptions.sheetID.includes('/d/') ? userOptions.sheetID.split('/d/')[1].split('/edit')[0] : userOptions.sheetID : "1uBiZP_A5PqDCduKKu80_kLbn0VrGGpyc0jsY32qBllc",
     sheetPage: userOptions.sheetPage ? userOptions.sheetPage : "Public Masterlist",
     itemAmount: userOptions.itemAmount ? userOptions.itemAmount : 12,
     itemOrder: userOptions.itemOrder ? userOptions.itemOrder : "desc",
